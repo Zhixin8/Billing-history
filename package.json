@@ -1,0 +1,16 @@
+{
+  "name": "trae-two",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chart.js": "^4.4.8",
+    "xlsx": "^0.18.5"
+  }
+}
